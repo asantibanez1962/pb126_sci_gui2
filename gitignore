@@ -1,0 +1,52 @@
+*.pbd
+*.prn
+*.p12
+*.bak
+*.jpg
+*.dbg
+*.env
+*.exe
+*.sr*
+*.zip
+*.bak
+*.sql
+*.pbx
+*.xls*
+*.rar
+*.opt
+*.log
+*.doc*
+*.txt
+*.rft
+*.dll
+/santaanita/*
+/respaldo/*
+/logs/*
+/imagenes/*
+/formatos_viejos/*
+/exportado/*
+/datos_deli/*
+/confirmaciones/*
+/clib/*
+/coc/*
+/tmpwebServices/*
+/hacienda/*
+/anchor/*
+/casos hacienda/*
+/casr/*
+/confirmaciones/*
+/cu/*
+/datoshaciendacoc/*
+/casos hacienda/*
+/documentos/*
+/estados/*
+/eva/*
+/logs/*
+/meza/*
+/nueva carpeta/*
+/nueva carpeta(2)/*
+/pdf/*
+/repo/*
+/respaldo/*
+/sistemas/*
+/transferencias/*
